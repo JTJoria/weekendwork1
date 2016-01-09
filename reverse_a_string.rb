@@ -4,6 +4,10 @@
 
 def reverse_a_string(string)
 
+  def initialize
+    
+  end
+
 end
 
 # Driver code - don't touch anything below this line.

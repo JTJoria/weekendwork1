@@ -2,6 +2,10 @@
 
 def find_longest_word(sentence)
 
+  def initialize
+
+  end
+
 end
 
 # Driver code - don't touch anything below this line.
